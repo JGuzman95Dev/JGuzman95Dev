@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, i am Javier Guzman 👋
+![IMGitHub](https://github.com/user-attachments/assets/c4a55ccc-e7b3-4a3d-a2d9-2a3d34859d01)
+
 
 <!--
 **JGuzman95Dev/JGuzman95Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
